@@ -1,0 +1,40 @@
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0 -> Password is too short, There is not enought capital letters in password, There is not enought digits in password, There is not enought signs in password
+0 -> Password is too short, There is not enought capital letters in password, There is not enought lower letters in password, There is not enought signs in password
+0 -> Password is too short, There is not enought capital letters in password, There is not enought lower letters in password, There is not enought digits in password
+0 -> Password is too short, There is not enought lower letters in password, There is not enought digits in password, There is not enought signs in password
+0 -> Password is too short, There is not enought capital letters in password, There is not enought lower letters in password, There is not enought signs in password
+0 -> There is not enought capital letters in password
+0 -> There is not enought capital letters in password
+0 -> There is not enought capital letters in password
+0 -> There is not enought capital letters in password
+0 -> There is not enought capital letters in password
+0 -> There is not enought lower letters in password
+0 -> There is not enought lower letters in password
+0 -> There is not enought lower letters in password
+0 -> There is not enought lower letters in password
+0 -> There is not enought lower letters in password
+0 -> Password is too short
+0 -> Password is too short
+0 -> Password is too short
+0 -> Password is too short
+0 -> Password is too short
+0 -> There is not enought digits in password
+0 -> There is not enought digits in password
+0 -> There is not enought digits in password
+0 -> There is not enought digits in password
+0 -> There is not enought digits in password
+0 -> There is not enought signs in password
+0 -> There is not enought signs in password
+0 -> There is not enought signs in password
+0 -> There is not enought signs in password
+0 -> There is not enought signs in password

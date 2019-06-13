@@ -1,3 +1,5 @@
+import pandas as pd
+
 
 def unitTest(password):
     Errors = []
@@ -52,6 +54,15 @@ def unitTest(password):
 
 
 if __name__ == '__main__':
-    WARTOSC_DO_SPRAWDZENIA = 'Tu podac haslo dla unitTest'
+    exc = pd.read_excel('unittest.xlsx')
 
-    print(unitTest(WARTOSC_DO_SPRAWDZENIA))
+    results = []
+
+    for i in exc.index:
+        print(exc['haslo'][i])
+        results.append(unitTest(exc['haslo'][i]))
+
+    with open("UnitTestResult.txt", 'w') as file:
+        for res in results:
+            file.write(res)
+            file.write('\n')

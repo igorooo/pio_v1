@@ -1,0 +1,4 @@
+Program UnitTestPasswordPandas.py automatycznie pobierze wartości haseł z pliku excela unittest.xlsx, dla tej funkcjonalności potrzebny jest zainstalowany moduł Pandas ( pip install pandas) oraz dla starszej wersji pliku excela moze  byc potrzebny moduł xlrd ( pip install xlrd). Program uruchamiamiy z konsoli przez komendę: python3 UnitTestPasswordPandas.py.
+Program wyniki zapisze w pliku UnitTestResult.txt
+
+Wersja bez automatycznego pobierania wartości z pliku excel ( sama funkcja unittest) UnitTestPassword.py: python3 UnitTestPassword.py
